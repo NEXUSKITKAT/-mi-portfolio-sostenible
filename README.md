@@ -47,6 +47,7 @@ git init
 git add .  
 git commit -m "Primer commit"  
 git push origin main
+git checkout -b ramaNueva
 ```
 
 ## Licencia
