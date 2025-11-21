@@ -33,10 +33,12 @@ La sostenibilidad digital es una responsabilidad compartida en el mundo tecnoló
 ## Tecnologías que me interesan
 
 -   HTML\
+-   CSS\
 -   Python\
 -   Git y GitHub\
 -   Java\
 -   Bases de datos SQL
+-   Bash y Linux
 
 ## Primeros comandos aprendidos
 
