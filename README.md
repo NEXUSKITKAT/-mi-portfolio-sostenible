@@ -26,6 +26,10 @@ evitando procesos innecesarios y promoviendo buenas prácticas como el
 código limpio, la optimización y el uso responsable de tecnologías en la
 nube.
 
+## Reflexion sobre la sostenibilidad
+
+La sostenibilidad digital es una responsabilidad compartida en el mundo tecnológico. Cada decisión de diseño, desde el consumo energético de una aplicación hasta la eficiencia de una consulta a la base de datos, puede tener impacto. Como programador en formación, me comprometo a crear software que no solo funcione bien, sino que también sea eficiente, duradero y consciente del gasto energético que conlleva. Creo que el futuro de la tecnología debe ser verde, accesible y respetuoso con el entorno.
+
 ## Tecnologías que me interesan
 
 -   HTML\
